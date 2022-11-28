@@ -1,9 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'amci.blg'
-[54] biber-darwin:340> INFO - === Sun Nov 20, 2022, 19:23:51
+[53] biber-darwin:340> INFO - === Mon Nov 28, 2022, 22:08:26
 [64] Biber.pm:418> INFO - Reading 'amci.bcf'
-[126] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
-[136] bbl.pm:654> INFO - Writing 'amci.bbl' with encoding 'UTF-8'
-[137] bbl.pm:757> INFO - Output to amci.bbl
-[137] Biber.pm:130> WARN - The file 'amci.bcf' does not contain any citations!
-[137] Biber.pm:132> INFO - WARNINGS: 1
+[125] Biber.pm:972> INFO - Found 6 citekeys in bib section 0
+[136] Biber.pm:4383> INFO - Processing section 0
+[143] Biber.pm:4574> INFO - Looking for bibtex file 'amci_references.bib' for section 0
+[144] bibtex.pm:1713> INFO - LaTeX decoding ...
+[149] bibtex.pm:1518> INFO - Found BibTeX data source 'amci_references.bib'
+[200] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[200] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[200] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[200] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[205] bbl.pm:654> INFO - Writing 'amci.bbl' with encoding 'UTF-8'
+[208] bbl.pm:757> INFO - Output to amci.bbl

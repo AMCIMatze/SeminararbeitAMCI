@@ -16,5 +16,234 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{aggarwal2019augmented}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=a19502b7d0f1b6e8732f07d7cdab1843}{%
+           family={Aggarwal},
+           familyi={A\bibinitperiod},
+           given={Riya},
+           giveni={R\bibinitperiod}}}%
+        {{hash=20628aff33dee8b5a3a36f329655dec3}{%
+           family={Singhal},
+           familyi={S\bibinitperiod},
+           given={Abhishek},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{26977a19e0c3ee62ce3d58909f84d854}
+      \strng{fullhash}{26977a19e0c3ee62ce3d58909f84d854}
+      \strng{bibnamehash}{26977a19e0c3ee62ce3d58909f84d854}
+      \strng{authorbibnamehash}{26977a19e0c3ee62ce3d58909f84d854}
+      \strng{authornamehash}{26977a19e0c3ee62ce3d58909f84d854}
+      \strng{authorfullhash}{26977a19e0c3ee62ce3d58909f84d854}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 9th International Conference on Cloud Computing, Data Science \& Engineering (Confluence)}
+      \field{title}{Augmented Reality and its effect on our life}
+      \field{year}{2019}
+      \field{pages}{510\bibrangedash 515}
+      \range{pages}{6}
+    \endentry
+    \entry{amin2015comparative}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ddc42505d372b0b7f076b1f570e67bfa}{%
+           family={Amin},
+           familyi={A\bibinitperiod},
+           given={Dhiraj},
+           giveni={D\bibinitperiod}}}%
+        {{hash=dc5b96201841af2d172a9960e8b488a9}{%
+           family={Govilkar},
+           familyi={G\bibinitperiod},
+           given={Sharvari},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{0ae83a9e46ac36b99e974e35602f7586}
+      \strng{fullhash}{0ae83a9e46ac36b99e974e35602f7586}
+      \strng{bibnamehash}{0ae83a9e46ac36b99e974e35602f7586}
+      \strng{authorbibnamehash}{0ae83a9e46ac36b99e974e35602f7586}
+      \strng{authornamehash}{0ae83a9e46ac36b99e974e35602f7586}
+      \strng{authorfullhash}{0ae83a9e46ac36b99e974e35602f7586}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal on Computational Science \& Applications}
+      \field{number}{1}
+      \field{title}{Comparative study of augmented reality SDKs}
+      \field{volume}{5}
+      \field{year}{2015}
+      \field{pages}{11\bibrangedash 26}
+      \range{pages}{16}
+    \endentry
+    \entry{bostanci2013user}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e97e06bb06ecc86c3424b4eec8ee9ddf}{%
+           family={Bostanci},
+           familyi={B\bibinitperiod},
+           given={Erkan},
+           giveni={E\bibinitperiod}}}%
+        {{hash=fadaa647b3b712bf2b360da1ff2f05cf}{%
+           family={Kanwal},
+           familyi={K\bibinitperiod},
+           given={Nadia},
+           giveni={N\bibinitperiod}}}%
+        {{hash=77d59fdf4759e88243e1a381b8430c88}{%
+           family={Ehsan},
+           familyi={E\bibinitperiod},
+           given={Shoaib},
+           giveni={S\bibinitperiod}}}%
+        {{hash=276c770867cb97ef9c8d7495dda79c01}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Adrian\bibnamedelima F},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IACSIT Press}%
+      }
+      \strng{namehash}{3727dbe0f7dd9ae368625b97ed0352c6}
+      \strng{fullhash}{3f3543d49515ee8c42add150588efe7a}
+      \strng{bibnamehash}{3727dbe0f7dd9ae368625b97ed0352c6}
+      \strng{authorbibnamehash}{3727dbe0f7dd9ae368625b97ed0352c6}
+      \strng{authornamehash}{3727dbe0f7dd9ae368625b97ed0352c6}
+      \strng{authorfullhash}{3f3543d49515ee8c42add150588efe7a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computer Theory and Engineering}
+      \field{number}{1}
+      \field{title}{User tracking methods for augmented reality}
+      \field{volume}{5}
+      \field{year}{2013}
+      \field{pages}{93}
+      \range{pages}{1}
+    \endentry
+    \entry{cukovic2015marker}{article}{}
+      \name{author}{6}{}{%
+        {{hash=7cf253ba89914db24da810a354d355a3}{%
+           family={Ćuković},
+           familyi={Ć\bibinitperiod},
+           given={Saša},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5297ed7522a51eb38c1f2aa1a091a5c6}{%
+           family={Gattullo},
+           familyi={G\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a7a4e005c46686db78059a693e565b61}{%
+           family={Pankratz},
+           familyi={P\bibinitperiod},
+           given={Frieder},
+           giveni={F\bibinitperiod}}}%
+        {{hash=5d3b1db905f43df5a3170c89db40ee9c}{%
+           family={Devedžić},
+           familyi={D\bibinitperiod},
+           given={Goran},
+           giveni={G\bibinitperiod}}}%
+        {{hash=e2af8f9ca6d86b1d241c548d689f946c}{%
+           family={Carrabba},
+           familyi={C\bibinitperiod},
+           given={Ernesto},
+           giveni={E\bibinitperiod}}}%
+        {{hash=7a08b2be0eeb972f69ad5c199822bdec}{%
+           family={Baizid},
+           familyi={B\bibinitperiod},
+           given={Khelifa},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{f60f6fb544899bfcf9a85f2735486670}
+      \strng{fullhash}{ae177286a1f7ef98000041ba5e43fa81}
+      \strng{bibnamehash}{f60f6fb544899bfcf9a85f2735486670}
+      \strng{authorbibnamehash}{f60f6fb544899bfcf9a85f2735486670}
+      \strng{authornamehash}{f60f6fb544899bfcf9a85f2735486670}
+      \strng{authorfullhash}{ae177286a1f7ef98000041ba5e43fa81}
+      \field{sortinit}{Ć}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{no. January}
+      \field{title}{Marker based vs. natural feature tracking augmented reality visualization of the 3D foot phantom}
+      \field{year}{2015}
+    \endentry
+    \entry{lima2009model}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=84cdd029a1e9ac4765d17a6f4fff39b5}{%
+           family={Lima},
+           familyi={L\bibinitperiod},
+           given={JPSM},
+           giveni={J\bibinitperiod}}}%
+        {{hash=71e92735cb0ef248d29d5d1a30915b41}{%
+           family={Simoes},
+           familyi={S\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e5d161cb20dbd01da376d611d5a3d034}{%
+           family={Figueiredo},
+           familyi={F\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c8a2dbd5d5b85be9725b2564e66509ae}{%
+           family={Teichrieb},
+           familyi={T\bibinitperiod},
+           given={Veronica},
+           giveni={V\bibinitperiod}}}%
+        {{hash=d3e5c9a0c1c5a2648a68c29b8fefa05e}{%
+           family={Kelner},
+           familyi={K\bibinitperiod},
+           given={Judith},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d39f31c6908022ffcef12624bac4ddb8}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={I},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{63ea8ed090f64d582ae4a96c1d82d02f}
+      \strng{fullhash}{fb11037b1dabb118347d97144b846d99}
+      \strng{bibnamehash}{63ea8ed090f64d582ae4a96c1d82d02f}
+      \strng{authorbibnamehash}{63ea8ed090f64d582ae4a96c1d82d02f}
+      \strng{authornamehash}{63ea8ed090f64d582ae4a96c1d82d02f}
+      \strng{authorfullhash}{fb11037b1dabb118347d97144b846d99}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{XI symposium on virtual and augmented reality}
+      \field{title}{Model based 3d tracking techniques for markerless augmented reality}
+      \field{year}{2009}
+      \field{pages}{37\bibrangedash 47}
+      \range{pages}{11}
+    \endentry
+    \entry{siltanen2012theory}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0d361409ae2aeb2d8a4b2183e6036e6b}{%
+           family={Siltanen},
+           familyi={S\bibinitperiod},
+           given={Sanni},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{0d361409ae2aeb2d8a4b2183e6036e6b}
+      \strng{fullhash}{0d361409ae2aeb2d8a4b2183e6036e6b}
+      \strng{bibnamehash}{0d361409ae2aeb2d8a4b2183e6036e6b}
+      \strng{authorbibnamehash}{0d361409ae2aeb2d8a4b2183e6036e6b}
+      \strng{authornamehash}{0d361409ae2aeb2d8a4b2183e6036e6b}
+      \strng{authorfullhash}{0d361409ae2aeb2d8a4b2183e6036e6b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Theory and applications of marker-based augmented reality: Licentiate thesis}
+      \field{year}{2012}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
